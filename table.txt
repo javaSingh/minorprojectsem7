@@ -1,0 +1,10 @@
+CREATE TABLE DOCUMENT 
+(
+docid VARCHAR(10), 
+fromdept VARCHAR(30) NOT NULL,
+indept VARCHAR(30), 
+todept VARCHAR(100), 
+receiveddate varchar(20),
+sentdate varchar(20),
+completedate varchar(20)
+);

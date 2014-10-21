@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="minor project with inder 7th sem">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="minor_project_with_inder_7th_sem"/>
+        <property name="java-output-path" value="/minor project with inder 7th sem/build/classes"/>
+    </wb-module>
+</project-modules>
